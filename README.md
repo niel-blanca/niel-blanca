@@ -1,39 +1,85 @@
 <img src="Banner.webp" alt="Banner Image" />
 
-# Welcome to Spyboosters'! 👋
+# Hey! I'm Niel Blanca 👋  
+**Full-Stack Web Developer • Open-Source Builder**
 
-Greetings, I'm Niel Blanca, a dedicated full-stack web developer currently employed at a reputable company in Japan. With a strong foundation in both front-end and back-end development, I specialize in crafting comprehensive solutions for web-based projects.
+I’m a full-stack web developer focused on building clean, scalable, and developer-friendly solutions across PHP, JavaScript, and modern frameworks. I create tools, packages, and integrations that streamline development and reduce boilerplate — helping developers work faster and more efficiently.
 
-## Professional Summary
-Driven by a profound passion for mastering diverse facets of web development, I approach each project with a deep commitment to continuous learning and growth. My journey as a full-stack developer is characterized by a relentless pursuit of excellence and innovation.
+---
 
-## About Me
-I am on a relentless pursuit to explore the vast realms of full-stack web development and its associated technologies. My keen interest in both front-end and back-end development fuels my quest to continually expand my skill set and delve deeper into the intricacies of programming.
+## 🚀 About Me
+- Full-stack developer specializing in **Laravel**, **CodeIgniter**, **Vue**, and **vanilla PHP**.
+- Passionate about building **cross-framework PHP packages**.
+- Currently developing **Form Generator**, **DocuSync AI**, and productivity-focused open-source tools.
+- Writes code guided by **SOLID**, **DRY**, and **KISS** principles.
+- Continuously improving expertise in **JavaScript frameworks**, **PHP architecture**, and **modern web development**.
 
-## Skills
-### Programming Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)
+---
+
+## 🛠️ Skills & Technologies
+
+### **Programming Languages**
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
+![SQL](https://img.shields.io/badge/-SQL-003B57?logo=mysql&logoColor=white&style=flat)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat) 
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat) 
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 
-### Tools and Technologies
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat)
+### **Frameworks & Libraries**
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat)
-![Codeigniter](https://img.shields.io/badge/-Codeigniter-EE4623?logo=codeigniter&logoColor=white&style=flat)
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EE4623?logo=codeigniter&logoColor=white&style=flat)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat)
-![MYSQL](https://img.shields.io/badge/-MYSQL-4479A1?logo=mysql&logoColor=white&style=flat)
+
+### **Tools & DevOps**
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![Composer](https://img.shields.io/badge/-Composer-885630?logo=composer&logoColor=white&style=flat)
 
-## GitHub Stats
-![Niel Blanca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=spybooster&show_icons=true&theme=radical)
+---
 
-## Contribution Graph
-![Niel Blanca's Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=spybooster&theme=dark)
+## 🧩 Featured Projects
 
-### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spybooster&layout=compact&theme=radical)
+### 🔹 **Form Generator (Cross-Framework PHP Package)**
+A unified form builder that works with **Laravel**, **CodeIgniter**, and **vanilla PHP**.  
+Includes:
+- Input components  
+- File & image uploads  
+- Signature support  
+- Multiple renderers  
+- Reusable views  
+- Composer-ready distribution  
 
+### 🔹 **DocuSync AI**
+AI-powered document automation with:
+- Smart template generation  
+- Digital signature workflow  
+- SDKs for PHP + JS frameworks  
+- Embeddable UI components  
 
-Feel free to connect with me via email at jezerniel.blanca@icloud.com and check out some of my projects on GitHub. Let's collaborate and build something awesome together! 🚀
+### 🔹 Developer Productivity Tools  
+More upcoming packages focused on:
+- Reducing repetitive boilerplate  
+- Making complex features easy to integrate  
+- Increasing development efficiency  
+
+---
+
+## 📊 GitHub Stats (Summary Cards)
+![Niel Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niel-blanca&theme=tokyonight)
+
+## 🧠 Top Languages
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=niel-blanca&theme=tokyonight)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=niel-blanca&theme=tokyonight)
+
+## 📈 Developer Metrics
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=niel-blanca&theme=tokyonight)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=niel-blanca&theme=tokyonight&utcOffset=8)
+
+---
+
+## 📬 Contact
+📧 **jezerniel.blanca@icloud.com**  
+🔗 **https://github.com/niel-blanca**
+
+Let’s collaborate and build something awesome! 🚀
